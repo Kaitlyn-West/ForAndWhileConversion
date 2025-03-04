@@ -1,7 +1,6 @@
 #include<iostream>
 #include<fstream>
 
-
 /*
 strip takes a string and removes any
 leading or trailing ' '
@@ -136,7 +135,8 @@ This is a program to convtert a while loop to a
 for loop or vice verca.
 
 the program assumes that the first line of the 
-    file is not empty.
+    file is not empty unless there is no
+    update statment for a while loop
 the program assumes that a for loop will not 
     have any code preceding the for loop.
 the program assumes the loops are formated to 
