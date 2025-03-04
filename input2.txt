@@ -1,0 +1,17 @@
+int a = 0;
+while (a < 10) {
+    int b = 0;
+    for(int i = i; i < a; i++)
+    {
+        b += i;
+    }
+    if(b % 2 == 0)
+    {
+        std::cout << b << " is even" << std::endl;
+    }
+    else
+    {
+        std::cout << b << " is odd" << std::endl;
+    }
+    a++;
+}

@@ -1,0 +1,3 @@
+/tank/home/kaitlyn/src/school/CompSci1021/ForAndWhileEquivalence/build/CMakeFiles/ForAndWhileEquivalence.dir
+/tank/home/kaitlyn/src/school/CompSci1021/ForAndWhileEquivalence/build/CMakeFiles/edit_cache.dir
+/tank/home/kaitlyn/src/school/CompSci1021/ForAndWhileEquivalence/build/CMakeFiles/rebuild_cache.dir

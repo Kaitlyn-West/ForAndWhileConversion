@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/tank/home/kaitlyn/src/school/CompSci1021/ForAndWhileEquivalence/build",
+  "command": "/usr/bin/c++  -I/tank/home/kaitlyn/src/school/CompSci1021/ForAndWhileEquivalence/include -g -o CMakeFiles/ForAndWhileEquivalence.dir/ForAndWhileEquivalence.cpp.o -c /tank/home/kaitlyn/src/school/CompSci1021/ForAndWhileEquivalence/ForAndWhileEquivalence.cpp",
+  "file": "/tank/home/kaitlyn/src/school/CompSci1021/ForAndWhileEquivalence/ForAndWhileEquivalence.cpp",
+  "output": "CMakeFiles/ForAndWhileEquivalence.dir/ForAndWhileEquivalence.cpp.o"
+}
+]
