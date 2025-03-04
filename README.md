@@ -7,4 +7,4 @@ this is a c++ program to read in a file containing a for/while loop in c++, and 
 - the program assumes that a while loop with an initialization statment will have a newline before the loop's header
 - the program assumes that loops have the opening curly brace on the same line as the header
 - the program assumes that loops have the closing brace on its own line.
-Two example input files have been included in the repository, for.txt and while.txt
+Two example input files have been included in the repository, input.txt and input2.txt
